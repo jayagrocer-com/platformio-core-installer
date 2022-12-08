@@ -39,7 +39,7 @@ setup(
         "requests==2.26.0",
         "colorama==0.4.4",
         "semantic-version==2.8.5",
-        "certifi==2021.10.8",
+        "certifi==2022.12.7",
         # Misc
         "wheel==0.37.0",
     ],
